@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\780dc1e75fe1c66073ae355eeeee95d5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.0.0.aar\bb57d2c336b2bb77dd72e4b92afd12ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f7d13a30ec2d7b15c3e3559c7140079c\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a6d24fa35107a035cf91013662011e36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:rendering:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\rendering-1.0.0.aar\22897c560d57dc5765e6ac61d1dab25d\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.0.0.aar\9b3b6c83e9ed16fcbf1b83433f5e9931\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.ar.sceneform:filament-android:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\filament-android-1.0.0.aar\aa4e5356075aa321b15a9cfc26705c6a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f5d67dca1ce10dffe2dc01a1af88dcbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\07da64d36d6247b570ca26869ef00155\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2e4c90cc4a67f723401e2d47e873072d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\56ef7c8760d7a9f5a16190a40e88c1dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:17:1-46:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\efdddd6b8af4d3199ccaafb89a457b7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\534615cf08058466b1c16f256beeba6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d49ddde960f1897dc27cec86cac5b491\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5c00a108e93a859bc4e1e9a9f590dcc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\93f7e597a6d733b2a78410cee466f73d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\84a9cf2979021850d88f3fffc39297fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5347ae585bacddb3e8003838a4df5baf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\662df4858763e7d688ebd302fcf98eee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab9a11a862cb13027019b450bd98ad4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\be81271f13dd6434f19b56e267eca0a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\039c695e37b3d703a105338d273373f6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:8:5-86
+	android:required
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:8:61-84
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:8:19-60
+application
+ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:10:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\780dc1e75fe1c66073ae355eeeee95d5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\780dc1e75fe1c66073ae355eeeee95d5\AndroidManifest.xml:9:5-20
+MERGED from [com.google.ar.sceneform:sceneform-base:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.0.0.aar\9b3b6c83e9ed16fcbf1b83433f5e9931\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.ar.sceneform:sceneform-base:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\sceneform-base-1.0.0.aar\9b3b6c83e9ed16fcbf1b83433f5e9931\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:30:5-44:19
+	android:supportsRtl
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:18:9-48
+	android:roundIcon
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:17:9-45
+meta-data#com.google.ar.core
+ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:20:9-81
+	android:value
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:20:54-78
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:20:20-53
+activity#com.raywenderlich.whacardroid.MainActivity
+ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:22:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:26:13-47
+	android:label
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:23:13-45
+	android:exported
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:27:13-36
+	android:configChanges
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:25:13-63
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\780dc1e75fe1c66073ae355eeeee95d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\780dc1e75fe1c66073ae355eeeee95d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.0.0.aar\bb57d2c336b2bb77dd72e4b92afd12ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\sceneform-ux-1.0.0.aar\bb57d2c336b2bb77dd72e4b92afd12ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f7d13a30ec2d7b15c3e3559c7140079c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f7d13a30ec2d7b15c3e3559c7140079c\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a6d24fa35107a035cf91013662011e36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a6d24fa35107a035cf91013662011e36\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\rendering-1.0.0.aar\22897c560d57dc5765e6ac61d1dab25d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\rendering-1.0.0.aar\22897c560d57dc5765e6ac61d1dab25d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\filament-android-1.0.0.aar\aa4e5356075aa321b15a9cfc26705c6a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\filament-android-1.0.0.aar\aa4e5356075aa321b15a9cfc26705c6a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f5d67dca1ce10dffe2dc01a1af88dcbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f5d67dca1ce10dffe2dc01a1af88dcbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\07da64d36d6247b570ca26869ef00155\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\07da64d36d6247b570ca26869ef00155\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2e4c90cc4a67f723401e2d47e873072d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2e4c90cc4a67f723401e2d47e873072d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\56ef7c8760d7a9f5a16190a40e88c1dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\56ef7c8760d7a9f5a16190a40e88c1dc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:26:5-28:41
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\efdddd6b8af4d3199ccaafb89a457b7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\efdddd6b8af4d3199ccaafb89a457b7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\534615cf08058466b1c16f256beeba6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\534615cf08058466b1c16f256beeba6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d49ddde960f1897dc27cec86cac5b491\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d49ddde960f1897dc27cec86cac5b491\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5c00a108e93a859bc4e1e9a9f590dcc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5c00a108e93a859bc4e1e9a9f590dcc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\93f7e597a6d733b2a78410cee466f73d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\93f7e597a6d733b2a78410cee466f73d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\84a9cf2979021850d88f3fffc39297fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\84a9cf2979021850d88f3fffc39297fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5347ae585bacddb3e8003838a4df5baf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5347ae585bacddb3e8003838a4df5baf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\662df4858763e7d688ebd302fcf98eee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\662df4858763e7d688ebd302fcf98eee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab9a11a862cb13027019b450bd98ad4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab9a11a862cb13027019b450bd98ad4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\be81271f13dd6434f19b56e267eca0a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\be81271f13dd6434f19b56e267eca0a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\039c695e37b3d703a105338d273373f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\039c695e37b3d703a105338d273373f6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\admin\AndroidStudioProjects\WhacArDroid\Starter\whac-ar-droid\app\src\main\AndroidManifest.xml:2:1-36:12 reason: com.google.ar.sceneform requested WRITE_EXTERNAL_STORAGE
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:33:9-39:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:36:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:38:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:34:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:41:9-43:41
+	android:value
+		ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:43:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.2.0.aar\1709e4f5bac7f5f33b59cf53c10b9496\AndroidManifest.xml:42:13-62
